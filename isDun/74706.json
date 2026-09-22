@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang kafka 同步异步消费对比
+简介：golang 结构体 json 序列化坑点，梳理 Go 结构体 JSON 序列化高频坑点，字段大小写、零值处理问题。
+ | 原文链接：http://wap.utarso.asia/blog/4262405.sHtMl
+
+原标题：缓存基础原理与简单代码实现
+简介：echarts 大数据渲染性能调优，大数据量 ECharts 图表调优，数据采样、分片渲染，解决图表卡顿。
+ | 原文链接：http://wap.utarso.asia/blog/9516836.sHtMl
+
+原标题：golang k8s 镜像拉取密钥配置
+简介：golang 信号量 semaphore 并发限制，基于 semaphore 实现并发数量控制，保护数据库、第三方接口不被打满。
+ | 原文链接：http://wap.utarso.asia/blog/7481281.sHtMl
+
+原标题：golang k8s 命名空间资源隔离方案
+简介：golang redis 过期键监听回调，监听 key 过期事件，过期触发业务逻辑，实现过期自动处理业务场景。
+ | 原文链接：http://wap.utarso.asia/blog/4118025.sHtMl
+
+原标题：安全实践：输入输出双向过滤安全最佳实践
+简介：golang go 模块迁移从 GOPATH 到 GoMod，老项目从 GOPATH 迁移 go mod，解决依赖管理混乱问题。
+ | 原文链接：http://wap.utarso.asia/blog/8594635.sHtMl
+
+原标题：DevOps：制品仓库管理二进制产物版本
+简介：多操作系统开发兼容处理，解决不同系统路径、换行符、权限差异，保证项目跨平台正常运行。
+ | 原文链接：http://wap.utarso.asia/blog/7382295.sHtMl
+
+原标题：主干开发团队代码合并策略
+简介：Git 分支切换合并删除完整操作，实操分支全生命周期操作，包含切换、合并、删除，熟悉日常开发分支处理流程。
+ | 原文链接：http://wap.utarso.asia/blog/0936141.sHtMl
+
+原标题：golang http 服务性能优化调参
+简介：golang yaml 解析配置加载实操，Go 解析 YAML 配置文件，读取配置参数，驱动业务运行。
+ | 原文链接：http://wap.utarso.asia/blog/6384626.sHtMl
+
+原标题：Docker 网络模式容器互通设置
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：http://wap.utarso.asia/blog/8506805.sHtMl
+
+原标题：golang 定时任务 cron 使用指南
+简介：文件读写与异常捕获代码示例，演示文件读取写入操作，增加异常捕获逻辑，规避文件不存在、权限不足导致崩溃。
+ | 原文链接：http://wap.utarso.asia/blog/1939061.sHtMl
+
+原标题：golang docker compose 环境变量
+简介：golang mysql 慢查询日志程序采集解析，程序读取解析 mysql 慢查询日志，统计慢 SQL 做监控告警。
+ | 原文链接：http://wap.utarso.asia/blog/4128360.sHtMl
+
+原标题：GC 垃圾回收优化降低 CPU 占用
+简介：golang go url url.Values 参数编码，url.Values 构建 url 查询参数，自动处理参数 url 编码。
+ | 原文链接：http://wap.utarso.asia/blog/1839042.sHtMl
+
+原标题：golang 系统设计 tcp keepalive 参数调优实践
+简介：golang go 应用内存使用优化手段，减少对象分配，复用对象，降低 GC 压力，减少 GC 停顿时间。
+ | 原文链接：http://wap.utarso.asia/blog/0929071.sHtMl
+
+原标题：golang 系统设计锁优化减少竞争提升吞吐
+简介：golang 微服务网关简易实现，http 反向代理、路由匹配、鉴权限流，理解网关核心原理。
+ | 原文链接：http://wap.utarso.asia/blog/0718950.sHtMl
+
+原标题：调优方案：静态资源缓存头Cache‑Control优化
+简介：golang go 并发模式 errgroup 使用，errgroup 结合 context，协程组，任意协程出错整体取消任务。
+ | 原文链接：http://wap.utarso.asia/blog/6373517.sHtMl
+
+原标题：安全实践：SQL注入产生场景与完整防御手段
+简介：golang defer panic 异常处理，理解 defer 延迟执行，panic 恐慌捕获，实现函数资源释放异常保护。
+ | 原文链接：http://wap.utarso.asia/blog/5284414.sHtMl
+
+原标题：定时任务周期调度 demo 开发
+简介：golang grpc protobuf 开发实操，Go gRPC 开发，编写 Protobuf 定义，服务端客户端完整示例。
+ | 原文链接：http://wap.utarso.asia/blog/3158361.sHtMl
+
+原标题：golang 系统设计降级策略开关配置方案
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：http://wap.utarso.asia/blog/8506897.sHtMl
+
+原标题：坑点：gitreset误删本地代码恢复方案
+简介：golang 静态编译缩小镜像体积，Go 程序静态编译，不依赖系统库，产出单二进制文件，缩小镜像。
+ | 原文链接：http://wap.utarso.asia/blog/8714926.sHtMl
+
+原标题：golang 系统设计 api 文档 swagger redoc 落地
+简介：golang gzip 压缩 http 响应，服务端开启 gzip 压缩，减小接口响应体积，降低网络传输耗时。
+ | 原文链接：http://wap.utarso.asia/blog/0736736.sHtMl
+
+原标题：Hands‑on：静态资源CDN缓存控制头配置实践
+简介：nodejs 集成测试业务流程编写，编写 Node 集成测试，调用真实接口，验证完整业务链路执行结果。
+ | 原文链接：http://wap.utarso.asia/blog/0746836.sHtMl
+
+原标题：线上异常：接口偶发超时，完整定位过程记录
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：http://wap.utarso.asia/blog/0724149.sHtMl
+
+原标题：golang 系统设计多租户数据隔离方案
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://wap.utarso.asia/blog/3970472.sHtMl
+
+原标题：vue pinia 状态管理实战教程
+简介：golang 异步任务队列 worker 池开发，任务入数据库或 redis，worker 池消费执行，异步处理耗时业务。
+ | 原文链接：http://wap.utarso.asia/blog/9603919.sHtMl
+
+原标题：文件句柄耗尽资源泄露处理
+简介：golang go 种子初始化 rand 随机，rand 初始化种子，不初始化会固定序列，理解随机数种子行为。
+ | 原文链接：http://wap.utarso.asia/blog/6362401.sHtMl
+
+原标题：安全笔记：请求头伪造IP漏洞防护
+简介：nodejs 集成测试业务流程编写，编写 Node 集成测试，调用真实接口，验证完整业务链路执行结果。
+ | 原文链接：http://wap.utarso.asia/blog/8596848.sHtMl
+
+原标题：nodejs 消息队列消费服务开发
+简介：golang io.MultiReader MultiWriter 拼接流，多个 reader 拼接，多 writer 同时写入一份数据。
+ | 原文链接：http://wap.utarso.asia/blog/0473494.sHtMl
+
+原标题：golang cpu pprof 性能分析实操
+简介：golang kafka 消费者组重平衡避坑，规避消费者组频繁 rebalance，减少消费抖动，保障消息消费稳定性。
+ | 原文链接：http://wap.utarso.asia/blog/4125037.sHtMl
+
+原标题：图片上传预览格式大小处理
+简介：golang 配置文件多格式兼容加载，同时支持 yaml toml json 多种格式配置文件，灵活适配不同部署环境。
+ | 原文链接：http://wap.utarso.asia/blog/3047359.sHtMl
+
+原标题：踩坑记录：乐观锁版本号处理不当更新失败
+简介：golang 响应 body 流式返回大数据，http 流式输出数据，边生成边返回，无需在内存组装完整返回结果。
+ | 原文链接：http://wap.utarso.asia/blog/0717037.sHtMl
+
+原标题：Hands‑on：编写自定义Git钩子实现代码提交校验
+简介：golang 消息死信处理业务逻辑，Go 实现死信队列逻辑，消费失败消息转入死信，不阻塞正常消息队列。
+ | 原文链接：http://wap.utarso.asia/blog/4169152.sHtMl
+
+原标题：架构笔记：批量任务系统架构防重复、断点续跑
+简介：golang context 包标准用法规范，context 传递请求元数据、超时、取消，函数第一个参数传入 ctx。
+ | 原文链接：http://wap.utarso.asia/blog/9581693.sHtMl
+
+原标题：golang 系统设计分布式锁看门狗续期原理理解
+简介：golang panic 崩溃日志完整收集，捕获所有 panic，打印堆栈，记录日志，方便定位崩溃根源。
+ | 原文链接：http://wap.utarso.asia/blog/6302403.sHtMl
+
+原标题：Practice：实现文件监控自动重启开发服务工具
+简介：golang redis lua 脚本原子操作，使用 Lua 脚本实现原子逻辑，减少网络往返，保障多命令原子执行。
+ | 原文链接：http://wap.utarso.asia/blog/1936037.sHtMl
+
+原标题：批量操作分批处理防止 OOM
+简介：golang grpc 重试机制客户端配置，grpc 客户端配置重试策略，临时故障自动重试，提升调用稳定性。
+ | 原文链接：http://wap.utarso.asia/blog/9536636.sHtMl
+
+原标题：本地运行正常线上报错排查
+简介：RPC 报文大小上限调优大请求，调大 RPC 框架报文最大限制，支持传输大体积请求报文不被截断。
+ | 原文链接：http://wap.utarso.asia/blog/0617926.sHtMl
+
+原标题：方案对比：定时任务框架选型与架构对比
+简介：golang excel 简单读写操作示例，Go 实现 Excel 简单读写，业务数据导出 Excel 报表。
+ | 原文链接：http://wap.utarso.asia/blog/7492704.sHtMl
+
+原标题：golang 系统设计压测数据构造方法实现
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：http://wap.utarso.asia/blog/0758360.sHtMl
+
+原标题：实战：WebSocket断线重连完整业务处理实践
+简介：静态站点自动部署发布方案，配置流水线，代码更新自动构建静态站点并且部署上线，简化发布。
+ | 原文链接：http://wap.utarso.asia/blog/3056371.sHtMl
+
+原标题：golang 系统设计第三方 sdk 二次封装技巧
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://wap.utarso.asia/blog/5247247.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：Issue复现：内存泄漏定位完整复盘记录
+简介：分页逻辑错误数据漏查修复，修复分页查询逻辑漏洞，解决分页漏数据、重复返回数据等业务问题。
+ | 原文链接：http://wap.utarso.asia/blog/1537815.sHtMl
+
+原标题：Debug：静态资源缓存策略错误，用户看不到更新
+简介：大事务拆分回滚日志暴涨解决，拆分大型数据库事务，减少回滚日志生成量，避免磁盘被回滚日志占满。
+ | 原文链接：http://wap.utarso.asia/blog/1046148.sHtMl
+
+原标题：Issue：本地数据库与线上数据库排序规则差异
+简介：golang html 模板渲染简单示例，Go HTML 模板渲染，服务端渲染页面，填充数据输出 HTML 页面。
+ | 原文链接：http://wap.utarso.asia/blog/9647260.sHtMl
+
+原标题：实践：Git大仓库历史清理减小仓库体积实践
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://wap.utarso.asia/blog/5381505.sHtMl
+
+原标题：golang 系统设计缓存预热缓存降级实现
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：http://wap.utarso.asia/blog/5161405.sHtMl
+
+原标题：golang 系统设计 pre‑commit 钩子本地代码校验
+简介：golang go 模板执行错误捕获，捕获模板执行错误，防止模板错误直接返回空白页面。
+ | 原文链接：http://wap.utarso.asia/blog/0713818.sHtMl
+
+原标题：golang 系统设计时间字段选型 datetime timestamp
+简介：配置外部化线上部署防错误，把配置从代码剥离，外部传入配置，修改配置不需要重新打包构建。
+ | 原文链接：http://wap.utarso.asia/blog/2147958.sHtMl
+
+原标题：新手教程：配置SSH‑Key免密访问GitHub
+简介：golang excel 简单读写操作示例，Go 实现 Excel 简单读写，业务数据导出 Excel 报表。
+ | 原文链接：http://wap.utarso.asia/blog/7481680.sHtMl
+
+原标题：实战项目：实现简单缓存服务缓存穿透击穿防护
+简介：nestjs 权限守卫鉴权实现方案，使用 Nest 守卫实现接口鉴权，角色权限控制，拦截未授权接口访问。
+ | 原文链接：http://wap.utarso.asia/blog/7402480.sHtMl
+
+原标题：实战：基于内存实现简单消息广播组件
+简介：后端分页查询逻辑代码实现，编写后端分页接口，处理页码、每页条数参数，优化大数据量查询返回结果。
+ | 原文链接：http://wap.utarso.asia/blog/7371692.sHtMl
+
+原标题：golang http 请求重试封装工具
+简介：golang trace 可视化分析协程阻塞，使用 trace 网页 UI，定位协程阻塞、系统调用阻塞、锁等待。
+ | 原文链接：http://wap.utarso.asia/blog/5264636.sHtMl
+
+原标题：从零学习简单分布式ID生成思路
+简介：开源源码阅读拆解学习思路，分享阅读大型开源项目方法，从入口文件逐层拆解模块，降低源码学习门槛。
+ | 原文链接：http://wap.utarso.asia/blog/8384512.sHtMl
+
+原标题：Architecture：大文件上传下载系统架构设计
+简介：Git 分支管理多人协作实战教程，详解分支创建、合并、冲突处理，适配团队开发场景，规范多人协同代码工作流。
+ | 原文链接：http://wap.utarso.asia/blog/2920251.sHtMl
+
+原标题：避坑：定时任务重复执行带来业务脏数据
+简介：golang 优雅处理 http 重定向逻辑，自定义控制 http 重定向跳转次数，防止无限重定向死循环。
+ | 原文链接：http://wap.utarso.asia/blog/5258363.sHtMl
+
+原标题：golang etcd watch 监听配置变更
+简介：golang strings.Builder 字符串高效拼接，strings.Builder 做字符串拼接，比 += 性能更高，减少内存拷贝。
+ | 原文链接：http://wap.utarso.asia/blog/0306790.sHtMl
+
+原标题：golang 系统设计缓存过期时间设置原则梳理
+简介：Git 误删提交代码恢复找回，使用 Git reflog 工具找回被误删除提交记录，恢复误删除代码。
+ | 原文链接：http://wap.utarso.asia/blog/8593828.sHtMl
+
+原标题：golang 系统设计 tcp 三次握手四次挥手梳理
+简介：数据库分表存储大表优化方案，对超大数据表做分表，拆分数据，降低单表数据量提升查询性能。
+ | 原文链接：http://wap.utarso.asia/blog/9694058.sHtMl
+
+原标题：Debug：长连接未设置心跳，连接僵死不回收
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://wap.utarso.asia/blog/0717946.sHtMl
+
+原标题：部署实践：Nginx高可用配置方案实践
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：http://wap.utarso.asia/blog/4718041.sHtMl
+
+原标题：主干开发团队代码合并策略
+简介：golang 模板函数自定义拓展，自定义 template 模板函数，在 html 模板调用自定义逻辑处理数据。
+ | 原文链接：http://wap.utarso.asia/blog/4947039.sHtMl
+
+原标题：跨平台 uniapp 多端开发实操
+简介：golang cgo 调用 C 语言代码示例，cgo 调用 C 函数，go 与 C 互相调用，对接 C 语言库能力。
+ | 原文链接：http://wap.utarso.asia/blog/1969481.sHtMl
+
+原标题：项目实践：消息队列消息确认机制业务实践
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：http://wap.utarso.asia/blog/8482733.sHtMl
+
+原标题：golang 系统设计 pr 评审合并完整流程
+简介：golang http body 必须关闭的重要性，无论成功失败必须关闭 request.Body，否则连接无法复用泄漏。
+ | 原文链接：http://wap.utarso.asia/blog/4263516.sHtMl
+
+原标题：快速入门消息队列基础概念模型
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://wap.utarso.asia/blog/1829920.sHtMl
+
+原标题：golang 系统设计 tcc 事务简单原理业务示例
+简介：golang channel 通道并发处理，讲解 Channel 用法，协程之间通过通道传递数据，做并发同步控制。
+ | 原文链接：http://wap.utarso.asia/blog/1305637.sHtMl
+
+原标题：排错：前端打包chunk过大浏览器加载缓慢
+简介：golang go 泛型使用避坑注意点，泛型与 interface 区别，泛型性能，什么时候适合使用泛型。
+ | 原文链接：http://wap.utarso.asia/blog/0728060.sHtMl
+
+原标题：分布式事务最终一致性实现
+简介：golang elasticsearch 客户端 golang 实操，es 客户端文档增删改查，条件搜索聚合统计对接搜索引擎。
+ | 原文链接：http://wap.utarso.asia/blog/9713915.sHtMl
+
+原标题：性能笔记：HTTP连接复用性能优化实践
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://wap.utarso.asia/blog/5269451.sHtMl
+
+原标题：内网测试服务搭建团队调试
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：http://wap.utarso.asia/blog/7474625.sHtMl
+
+原标题：方案对比：单体、微服务、模块化单体取舍
+简介：ICMP 放通网络丢包问题修复，放开 ICMP 协议，解决 MTU 问题导致网络丢包，修复网络不稳定现象。
+ | 原文链接：http://wap.utarso.asia/blog/7595848.sHtMl
+
+原标题：Hands‑on：简易图片压缩处理服务demo
+简介：容器内存扩容 OOM 被杀死修复，调高容器内存限制，优化程序内存占用，避免程序被 OOM 终止。
+ | 原文链接：http://wap.utarso.asia/blog/2818071.sHtMl
+
+原标题：安全笔记：JWT安全风险，签名泄露过期控制
+简介：golang influxdb 时序数据库读写操作，influxdb 存储时序指标，业务指标监控数据存取。
+ | 原文链接：http://wap.utarso.asia/blog/3969249.sHtMl
+
+原标题：快速上手简单信号处理脚本编写
+简介：golang 参数校验业务接口处理，Go 接口入参参数校验，拦截非法入参，减少业务层参数判断代码。
+ | 原文链接：http://wap.utarso.asia/blog/6363572.sHtMl
+
+原标题：线程调度优化减少上下文切换
+简介：golang base64 大文件流式编解码，大文件流式 base64 转换，不用一次性加载全部文件进入内存。
+ | 原文链接：http://wap.utarso.asia/blog/1746707.sHtMl
+
+原标题：线上异常：接口偶发超时，完整定位过程记录
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：http://wap.utarso.asia/blog/9606068.sHtMl
+
+原标题：排错：内网域名解析不稳定导致服务随机报错
+简介：golang bufio.Scanner 按行读取大文件，Scanner 逐行读取文本文件，处理超大日志 csv。
+ | 原文链接：http://wap.utarso.asia/blog/2602707.sHtMl
+
+原标题：容器内存扩容 OOM 被杀死修复
+简介：日志切割配置防止日志丢失，配置日志切割轮转策略，日志按大小时间切割，防止日志文件丢失。
+ | 原文链接：http://wap.utarso.asia/blog/0606859.sHtMl
+
+原标题：Security：开源项目安全审计简易检查清单
+简介：golang uuid 生成多种版本实现，生成 uuid v1 v4，生成唯一标识，业务用于单据编号场景。
+ | 原文链接：http://wap.utarso.asia/blog/6303836.sHtMl
+
+原标题：设计思考：业务埋点架构日志埋点设计原则
+简介：golang interface 接口使用避坑，interface 判 nil 坑点，理解接口底层结构，避免判空逻辑失效。
+ | 原文链接：http://wap.utarso.asia/blog/2584028.sHtMl
+
+原标题：golang 系统设计网关 ssl 证书配置更新实操
+简介：golang 自定义 http round tripper，封装 http 客户端拦截，实现请求日志、签名、重试统一处理逻辑。
+ | 原文链接：http://wap.utarso.asia/blog/1614928.sHtMl
+
+三、实战开发｜Practice
+原标题：实战项目：实现分布式任务调度最小原型
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://wap.utarso.asia/blog/6369493.sHtMl
+
+原标题：golang 系统设计线程协程泄露定位方法
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://wap.utarso.asia/blog/2807924.sHtMl
+
+原标题：golang 系统设计线上问题复现思路简单讲解
+简介：golang 互斥锁读写锁并发安全，互斥锁读写锁实操，保护共享变量，解决多协程并发读写数据竞争。
+ | 原文链接：http://wap.utarso.asia/blog/7484686.sHtMl
+
+原标题：golang 系统设计 saga 事务补偿模式实现思路
+简介：手写简易 ORM 理解对象映射，手写极简 ORM 示例，理解对象与数据库表字段映射底层原理。
+ | 原文链接：http://wap.utarso.asia/blog/6480693.sHtMl
+
+原标题：ICMP 放通网络丢包问题修复
+简介：golang 熔断降级简易组件开发，Go 简易熔断组件，下游故障触发熔断，保护上游服务不被拖垮。
+ | 原文链接：http://wap.utarso.asia/blog/4156137.sHtMl
+
+原标题：新手教程：配置SSH‑Key免密访问GitHub
+简介：golang 正则表达式 Go 实操案例，正则匹配提取替换，处理手机号邮箱校验，规避正则回溯 CPU 暴涨。
+ | 原文链接：http://wap.utarso.asia/blog/3605514.sHtMl
+
+原标题：部署实践：容器优雅停机配置处理信号
+简介：webpack chunk 分包策略详解，讲解 webpack chunk 分包策略，拆分第三方包与业务代码，优化缓存复用。
+ | 原文链接：http://wap.utarso.asia/blog/2957358.sHtMl
+
+原标题：golang 系统设计覆盖索引减少回表查询实现
+简介：前端水印防信息泄露实现，实现网页水印功能，页面叠加用户信息水印，防止页面截图信息外泄。
+ | 原文链接：http://wap.utarso.asia/blog/2850040.sHtMl
+
+原标题：方案对比：本地缓存vs分布式缓存架构取舍
+简介：golang 限流器熔断降级组合使用，限流熔断降级组合架构，流量防护完整方案，保障服务稳定性。
+ | 原文链接：http://wap.utarso.asia/blog/9815419.sHtMl
+
+原标题：批量数据处理脚本编写技巧
+简介：golang rsa 非对称加密签名验签，RSA 非对称加密与签名验签，实现非对称安全通信。
+ | 原文链接：http://wap.utarso.asia/blog/0813938.sHtMl
+
+原标题：golang 日志与链路 ID 关联打印
+简介：Docker 容器时区错误修复方案，修复 Docker 容器内部时区偏差，解决容器内时间不对引发业务逻辑异常。
+ | 原文链接：http://wap.utarso.asia/blog/0813626.sHtMl
+
+原标题：golang 系统设计第三方接口 mock 单元测试
+简介：golang bytes.Buffer 字节缓冲区使用，bytes.Buffer 字节内存缓冲区，拼接字节，避免频繁内存分配。
+ | 原文链接：http://wap.utarso.asia/blog/2829055.sHtMl
+
+原标题：golang 系统设计结构化日志字段规范约定
+简介：多操作系统开发兼容处理，解决不同系统路径、换行符、权限差异，保证项目跨平台正常运行。
+ | 原文链接：http://wap.utarso.asia/blog/4264622.sHtMl
+
+原标题：极简 API 网关路由转发实现
+简介：golang 网卡 ip 读取网络信息获取，程序读取本机网卡 IP，多网卡环境筛选业务使用 IP 地址。
+ | 原文链接：http://wap.utarso.asia/blog/6332464.sHtMl
+
+原标题：golang 系统设计 ide 配置 go 开发效率提升技巧
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：http://wap.utarso.asia/blog/6071693.sHtMl
+
+原标题：文件编码统一随机乱码修复
+简介：golang 终端交互式输入选择，命令行交互式问答选择输入，实现交互式脚本工具。
+ | 原文链接：http://wap.utarso.asia/blog/4847247.sHtMl
+
+原标题：golang k8s 镜像拉取密钥配置
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：http://wap.utarso.asia/blog/7482453.sHtMl
+
+原标题：安全组端口开放网络访问
+简介：golang 容器 OOM 被杀死排查区分，区分业务内存泄漏、容器限制过小，定位容器 OOMKilled 原因。
+ | 原文链接：http://wap.utarso.asia/blog/1158060.sHtMl
+
+原标题：线上异常：接口偶发超时，完整定位过程记录
+简介：golang atomic 原子操作整数，atomic 加减比较交换，无锁更新整型变量，简单计数器场景。
+ | 原文链接：http://wap.utarso.asia/blog/6272404.sHtMl
+
+原标题：快速入门ORM，实现简单数据库增删改查
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：http://wap.utarso.asia/blog/1325748.sHtMl
+
+原标题：golang 项目目录分层规范设计
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://wap.utarso.asia/blog/0815031.sHtMl
+
+原标题：入门实践：简单错误码设计与使用规范
+简介：golang nats jetstream 持久消息队列，nats jetstream 持久化消息，保证消息不丢失，实现可靠消费。
+ | 原文链接：http://wap.utarso.asia/blog/7040178.sHtMl
+
+原标题：用户敏感数据脱敏代码实现
+简介：golang docker compose 开发环境 go 服务，docker compose 编排 go 服务与中间件，本地一键拉起整套开发环境。
+ | 原文链接：http://wap.utarso.asia/blog/2057819.sHtMl
+
+原标题：react hooks 常见陷阱避坑指南
+简介：golang url 参数编码处理方案，Go URL 参数编码解码，处理特殊字符，避免 URL 参数错乱。
+ | 原文链接：http://wap.utarso.asia/blog/7141252.sHtMl
+
+原标题：Architecture：安全防护架构XSSCSRFSQL注入防御
+简介：golang mqtt 客户端 go 开发物联网，paho.mqtt.golang 实现 mqtt 客户端，物联网设备消息收发。
+ | 原文链接：http://wap.utarso.asia/blog/4758369.sHtMl
+
+原标题：新手向：开源项目本地构建失败通用排查步骤
+简介：golang context 超时取消实战案例，使用 context 控制协程、http 请求超时，自动终止超时任务，避免协程无限阻塞。
+ | 原文链接：http://wap.utarso.asia/blog/5859462.sHtMl
+
+原标题：OOMKilled 容器被杀完整排查
+简介：golang 自定义 http round tripper，封装 http 客户端拦截，实现请求日志、签名、重试统一处理逻辑。
+ | 原文链接：http://wap.utarso.asia/blog/2994037.sHtMl
+
+原标题：golang redis hyperloglog 基数统计
+简介：golang go 调用动态链接库 so 文件，go 加载 so 动态库调用函数，复用编译好的 C 动态库。
+ | 原文链接：http://wap.utarso.asia/blog/5262402.sHtMl
+
+原标题：golang 系统设计本地缓存过期淘汰策略选型
+简介：golang excel 生成导出高性能方案，excelize 流式生成 excel，百万行数据导出，规避内存溢出。
+ | 原文链接：http://wap.utarso.asia/blog/0603148.sHtMl
+
+原标题：接口压测定位系统性能瓶颈
+简介：golang trace 工具采集 go 程序执行轨迹，go trace 采集程序完整调度轨迹，分析协程调度阻塞问题。
+ | 原文链接：http://wap.utarso.asia/blog/8605635.sHtMl
+
+原标题：文件读写与异常捕获代码示例
+简介：WebSocket 断线重连稳定优化，增加 WebSocket 断线自动重连逻辑，处理网络抖动，维持长连接稳定。
+ | 原文链接：http://wap.utarso.asia/blog/5278347.sHtMl
+
+原标题：golang 系统设计分表扩容数据平滑迁移思路
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：http://wap.utarso.asia/blog/5048373.sHtMl
+
+原标题：golang 系统设计 commit 提交规范约定
+简介：golang go 输入数据校验防御，所有外部入参严格校验长度格式，防止恶意输入造成业务异常。
+ | 原文链接：http://wap.utarso.asia/blog/5240180.sHtMl
+
+原标题：golang 系统设计分布式任务调度
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://wap.utarso.asia/blog/3938067.sHtMl
+
+原标题：开发代理服务网络限制解决
+简介：本地数据库开发环境搭建指南，讲解数据库安装配置、账号权限设置、连接测试，快速搭建用于开发调试的数据库实例。
+ | 原文链接：http://wap.utarso.asia/blog/9605869.sHtMl
+
+原标题：Troubleshoot：CPU调度频繁上下文切换性能下降
+简介：golang 跨域处理中间件编写，Gin 跨域中间件开发，处理预检 OPTIONS 请求，解决浏览器跨域报错。
+ | 原文链接：http://wap.utarso.asia/blog/8525028.sHtMl
+
+原标题：nodejs 消息队列消费服务开发
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://wap.utarso.asia/blog/1694635.sHtMl
+
+原标题：ServiceWorker 缓存页面更新清理
+简介：线程调度优化减少上下文切换，优化线程数量，减少线程频繁切换，降低 CPU 上下文切换开销。
+ | 原文链接：http://wap.utarso.asia/blog/5150280.sHtMl
+
+原标题：Architecture：大文件上传下载系统架构设计
+简介：golang kitex 字节微服务框架入门，kitex 开发 rpc 微服务，代码生成，服务注册发现完整流程。
+ | 原文链接：http://wap.utarso.asia/blog/9625160.sHtMl
+
+原标题：开发复盘：导出大文件避免内存溢出实现方案
+简介：golang go 并发模式 or‑channel 信号合并，合并多个 done 信号，任意一个完成触发退出逻辑。
+ | 原文链接：http://wap.utarso.asia/blog/8601706.sHtMl
+
+四、架构设计｜Architecture
+原标题：设计思考：消息顺序性架构保证与业务妥协
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：http://wap.utarso.asia/blog/8493028.sHtMl
+
+原标题：golang 系统设计日志规范结构化日志落地
+简介：golang go 调用动态链接库 so 文件，go 加载 so 动态库调用函数，复用编译好的 C 动态库。
+ | 原文链接：http://wap.utarso.asia/blog/5168581.sHtMl
+
+原标题：golang gin 路由分组权限管控
+简介：golang 字符编码转换 go 处理，iconv‑go 做编码转换 gbk utf8 互转，处理老旧系统 gbk 编码数据。
+ | 原文链接：http://wap.utarso.asia/blog/0714020.sHtMl
+
+原标题：Performance：避免全表扫描索引失效场景汇总
+简介：golang select 随机分支执行特性，多个 channel 就绪 select 随机选择，理解 select 行为特性。
+ | 原文链接：http://wap.utarso.asia/blog/7373636.sHtMl
+
+原标题：实战项目：实现分布式任务调度最小原型
+简介：golang 链路追踪简易实现方案，简易链路追踪实现，传递 traceId，记录调用链路，方便排查慢调用。
+ | 原文链接：http://wap.utarso.asia/blog/0712515.sHtMl
+
+原标题：golang 项目环境变量加载方案
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：http://wap.utarso.asia/blog/0718371.sHtMl
+
+原标题：项目实践：OpenTelemetry链路追踪本地部署实践
+简介：golang 配置热更新不重启服务，实现配置热加载，监听配置变更，更新内存配置，无需重启服务实例。
+ | 原文链接：http://wap.utarso.asia/blog/2948170.sHtMl
+
+原标题：优化实践：序列化框架性能对比选型实践
+简介：golang kafka 消费者组重平衡避坑，规避消费者组频繁 rebalance，减少消费抖动，保障消息消费稳定性。
+ | 原文链接：http://wap.utarso.asia/blog/0637471.sHtMl
+
+原标题：开发复盘：百万数据批量导入数据库优化方案
+简介：golang 定时任务任务持久化存储，定时任务持久化到数据库，服务重启任务不丢失，动态管理任务。
+ | 原文链接：http://wap.utarso.asia/blog/3117070.sHtMl
+
+原标题：架构笔记：数据库读写分离架构数据不一致应对
+简介：golang goroutine 协程基础实操，Goroutine 基础实操案例，启动协程执行任务，理解轻量级协程特性。
+ | 原文链接：http://wap.utarso.asia/blog/4056282.sHtMl
+
+原标题：golang 系统设计 cpu 瓶颈定位优化方案
+简介：golang 信号量控制并发数量，使用信号量控制并发，限制同时执行任务数量，保护下游资源。
+ | 原文链接：http://wap.utarso.asia/blog/0605949.sHtMl
+
+原标题：CLI 工具进度条交互效果开发
+简介：golang 错误静默忽略风险规避，禁止空忽略错误，必须处理或者明确注释为什么忽略错误。
+ | 原文链接：http://wap.utarso.asia/blog/3616910.sHtMl
+
+原标题：golang 系统设计缓存优化落地实操指南
+简介：异步任务堆积消费能力优化，处理消息任务堆积问题，提升消费处理速度，恢复队列正常处理水位。
+ | 原文链接：http://wap.utarso.asia/blog/4979584.sHtMl
+
+原标题：服务启动依赖顺序配置正确
+简介：nestjs 拦截器过滤器管道实战，实操 Nest 拦截器、异常过滤器、管道校验，处理请求与响应统一逻辑。
+ | 原文链接：http://wap.utarso.asia/blog/3048393.sHtMl
+
+原标题：线上异常：缓存雪崩带来数据库压力瞬间飙升
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://wap.utarso.asia/blog/6379582.sHtMl
+
+原标题：Practice：实现IP黑名单拦截中间件实践
+简介：业务错误码完整落地实践，落地完整业务错误码，枚举全部业务异常，统一返回，配套文档说明。
+ | 原文链接：http://wap.utarso.asia/blog/8591037.sHtMl
+
+原标题：golang 系统设计 pre‑commit 钩子本地代码校验
+简介：golang errgroup 协程组错误处理，errgroup 捕获协程错误，context 取消剩余协程，简化并发任务。
+ | 原文链接：http://wap.utarso.asia/blog/4149141.sHtMl
+
+原标题：方案对比：RPC、HTTP、gRPC场景选型分析
+简介：网关超时时间调优后端等待，调大网关向后端转发请求超时时间，给后端业务充足处理时间。
+ | 原文链接：http://wap.utarso.asia/blog/1827161.sHtMl
+
+?
