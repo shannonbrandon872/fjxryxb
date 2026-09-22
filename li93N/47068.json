@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 分页查询封装通用工具
+简介：golang bcrypt 密码哈希加密存储，bcrypt 做用户密码哈希，加盐存储密码，保障用户密码安全。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/38330356.html
+
+原标题：前端权限路由动态生成实现
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/50461704.html
+
+原标题：golang 系统设计读写分离架构示例
+简介：Docker 容器网络不通排查，排查容器网络模式、端口映射、防火墙，解决容器之间、容器外部网络不通。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/51494615.html
+
+原标题：部署实践：服务器防火墙安全组配置实践
+简介：读懂开源项目 README 实用技巧，教你快速解析开源项目说明文档，提取安装、运行、配置关键信息，快速上手项目。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/47821255.html
+
+原标题：WSL 文件权限访问异常修复
+简介：MySQL 慢查询索引优化实战，抓取慢查询 SQL，分析执行计划，新增或者调整索引，提升 SQL 执行速度。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/56665453.html
+
+原标题：线上异常：线程池队列拒绝策略配置错误丢任务
+简介：跨域偶现失败配置修复，解决跨域问题时而复现时而正常，定位配置漏配、请求头异常等隐性问题。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/00900542.html
+
+原标题：实战项目：WebSocket消息广播房间分组实践
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/38569583.html
+
+原标题：golang 系统设计 pre‑commit 钩子本地代码校验
+简介：golang cron 任务漂移问题处理，cron 任务执行超时导致任务漂移，通过分布式锁防止任务重叠执行。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/52502525.html
+
+原标题：golang k8s 基础概念 pod deployment
+简介：golang race 检测器性能开销，race 检测器有性能损耗，只用于测试环境，禁止生产开启 race。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/35948958.html
+
+原标题：golang redis bitmap 位图统计实现
+简介：golang 空接口 interface {} 类型处理，interface {} 存储任意类型，类型转换，处理泛型之前通用数据。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/16047914.html
+
+原标题：从零编写简易 CLI 命令行工具
+简介：golang go 线上故障排查完整流程，CPU 高、内存上涨、接口超时、goroutine 泄露一套排查处理流程。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/91902814.html
+
+原标题：快速入门消息队列基础概念模型
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95227459.html
+
+原标题：golang 系统设计线程协程泄露定位方法
+简介：golang 微服务网关简易实现，http 反向代理、路由匹配、鉴权限流，理解网关核心原理。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40780692.html
+
+原标题：ORM 隐式慢查询问题规避
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/97046258.html
+
+原标题：避坑：预编译SQL失效，出现SQL注入风险
+简介：跨平台换行符统一异常修复，统一代码文件换行符，解决不同操作系统换行符不一致带来脚本执行异常。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95917971.html
+
+原标题：DevOps：GitLabCI完整流水线配置示例
+简介：golang 项目 go mod 依赖管理，Go Mod 管理项目依赖，下载、升级、清理依赖，解决依赖版本管理。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/41481291.html
+
+原标题：Hands‑on：简易布隆过滤器实现与测试验证
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/43371493.html
+
+原标题：golang 系统设计日志脱敏敏感字段过滤处理
+简介：golang aes 对称加密解密示例，AES 对称加密解密实现，业务敏感数据加密存储传输。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/73945925.html
+
+原标题：golang 系统设计 api 网关核心能力梳理
+简介：数据库事务 ACID 原理讲解，拆解事务四大特性，理解事务隔离、原子性，明白事务如何保障数据安全。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39248472.html
+
+原标题：接口签名校验防篡改实现
+简介：golang 优雅停机服务关闭实现，监听系统信号，关闭服务等待请求处理完毕，实现 Go 服务优雅停机。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40347846.html
+
+原标题：golang etcd 租约 lease 过期机制
+简介：golang 容器时区设置镜像构建处理，镜像内部设置正确时区，解决容器时间与宿主机不一致。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95846845.html
+
+原标题：开发复盘：大事务拆分优化业务性能实践
+简介：golang time 时间比较 Before After Equal，时间比较不要直接减，使用内置方法判断时间先后。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39270262.html
+
+原标题：开发测试生产多环境配置区分
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/83724684.html
+
+原标题：golang 系统设计接口幂等架构设计
+简介：golang redis lua 脚本原子操作，使用 Lua 脚本实现原子逻辑，减少网络往返，保障多命令原子执行。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/30463489.html
+
+原标题：上传接口跨域配置特殊适配
+简介：golang 云存储 s3 协议对象存储，go s3 客户端，兼容 minio 阿里云 oss，实现文件上传下载签名访问。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95835513.html
+
+原标题：golang 系统设计测试覆盖率目标合理设定思路
+简介：nestjs 全局返回格式统一处理，Nest 全局拦截器统一包装接口返回数据，对外输出标准化响应格式。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17169124.html
+
+原标题：nodejs 多进程任务分发处理
+简介：操作系统内核版本适配服务，针对服务运行要求，适配操作系统内核版本，规避内核兼容 bug。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/06912784.html
+
+原标题：golang 单元测试 table‑driven
+简介：golang http3 quic 客户端服务端示例，go 实现 http3 quic 服务端客户端，体验 quic 协议低延迟特性。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/78583624.html
+
+原标题：golang gin 路由分组权限管控
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40351692.html
+
+原标题：实战项目：本地搭建Prometheus监控完整demo
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/50301381.html
+
+原标题：安全复盘：Nginx配置不当带来的安全风险
+简介：golang 内存缓存简单实现方案，Go 实现进程内简易内存缓存，本地缓存热点数据，减少远程调用。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/50582513.html
+
+原标题：线上接口超时故障排查思路
+简介：golang 协程 panic 捕获防止崩溃，协程内部捕获 panic，防止单个协程恐慌造成整个 Go 进程崩溃。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40367867.html
+
+原标题：golang 系统设计缓存更新策略 cache aside 讲解
+简介：golang 日志 zap 结构化日志实践，接入 Zap 结构化日志库，打印结构化日志，方便日志检索解析。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/90380680.html
+
+原标题：复盘总结：分布式系统常见坑点汇总清单
+简介：golang rabbitmq go 客户端生产消费，streadway/amqp 实现 rabbitmq 生产者消费者，队列交换机绑定。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/83807059.html
+
+原标题：golang kafka 消费者组原理讲解
+简介：golang go 并发模式 or‑channel 信号合并，合并多个 done 信号，任意一个完成触发退出逻辑。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/29340147.html
+
+原标题：Hands‑on：简易验证码生成校验后端实践
+简介：golang go regexp 正则预编译，regexp.MustCompile 预编译正则，不要循环内部编译正则，节省 CPU。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/29259282.html
+
+原标题：Hands‑on：静态资源CDN缓存控制头配置实践
+简介：语义化版本依赖管理防错乱，项目依赖遵循语义版本约束，规避依赖自动升级引入不兼容变更。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/73724037.html
+
+原标题：运维笔记：系统监控指标大盘搭建实操
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/27127048.html
+
+原标题：golang 系统设计读写穿透更新缓存几种方案
+简介：HTTP 状态码请求头完整梳理，汇总常用 HTTP 状态码与请求头含义，帮助快速看懂网络请求，排查接口通信问题。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95027908.html
+
+原标题：Debug：预加载逻辑错误服务启动时间成倍拉长
+简介：webpack chunk 分包策略详解，讲解 webpack chunk 分包策略，拆分第三方包与业务代码，优化缓存复用。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/06270470.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：性能复盘：消息队列大量小消息性能问题优化
+简介：golang makefile 多平台编译脚本，makefile 一键交叉编译多平台二进制，打包镜像，执行测试。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/84145269.html
+
+原标题：跨库查询性能优化处理
+简介：golang go 随机数安全与非安全，math/rand 伪随机与 crypto/rand 密码学安全随机，区分业务场景。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/38239102.html
+
+原标题：从零搭建简单CLI命令行工具
+简介：golang go1.18 + 泛型基础实操，go 泛型基础语法，泛型函数泛型类型，实现通用工具函数。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/12033136.html
+
+原标题：golang 系统设计压力测试性能测试执行流程
+简介：golang gorm 索引设置与优化技巧，定义数据库索引，理解索引生效条件，避免索引失效慢查询。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/27039060.html
+
+原标题：实战：对象存储断点续传下载实践
+简介：golang excel 简单读写操作示例，Go 实现 Excel 简单读写，业务数据导出 Excel 报表。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/48319887.html
+
+原标题：golang 系统设计自动化测试 ci 流水线集成实操
+简介：golang interface {} 类型断言类型转换，类型断言 ok 模式，避免断言失败触发 panic。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/31094658.html
+
+原标题：方案设计：统一错误处理架构全链路方案
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/96926847.html
+
+原标题：Practice：实现文件监控自动重启开发服务工具
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/70793582.html
+
+原标题：golang grafana 面板变量模板制作
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/27078342.html
+
+原标题：数据库主从延迟业务兼容处理
+简介：代码模块化组件化拆分思路，讲解代码拆分原则，将大业务拆分为独立模块组件，提升代码复用与维护能力。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/36357237.html
+
+原标题：golang 系统设计 pr 评审合并完整流程
+简介：golang 单元测试 mock http 请求，mock HTTP 外部接口，单元测试不依赖外部网络，保证用例稳定运行。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/41461493.html
+
+原标题：golang 系统设计内部 rpc 接口设计原则梳理
+简介：golang kafka 同步异步消费对比，对比 Kafka 同步消费异步消费，分析优缺点，业务选型参考。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/69179580.html
+
+原标题：大事务拆分回滚日志暴涨解决
+简介：多规则数据脱敏组件开发，封装通用脱敏组件，支持多种脱敏规则，项目多处复用脱敏逻辑。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/18138925.html
+
+原标题：入门实践：搭建简单的热更新开发环境
+简介：WebSocket 聊天室实时通讯开发，基于 WebSocket 搭建简易聊天室，实现多人消息广播实时聊天效果。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/28044914.html
+
+原标题：﻿【GettingStarted】从零搭建本地开发环境完整指南
+简介：golang sftp 文件上传下载操作，sftp 协议远程文件上传下载，实现服务器之间文件传输功能。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/13023615.html
+
+原标题：macOS 脚本执行权限开启
+简介：golang time.After 内存泄漏场景，for 循环使用 time.After 会创建大量 timer，造成内存泄漏。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/60693685.html
+
+原标题：实战项目：搭建本地Mock服务快速开发联调
+简介：golang 信号量 semaphore 并发限制，基于 semaphore 实现并发数量控制，保护数据库、第三方接口不被打满。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39390230.html
+
+原标题：踩坑：大事务引发数据库连接池耗尽
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/05966131.html
+
+原标题：golang 系统设计依赖漏洞扫描修复流程
+简介：TLS 版本兼容 HTTPS 握手失败，兼容老旧 TLS 协议版本，修复部分客户端 HTTPS 握手失败无法访问。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/28389560.html
+
+原标题：golang redis 计数器防超卖示例
+简介：golang grpc 重试机制客户端配置，grpc 客户端配置重试策略，临时故障自动重试，提升调用稳定性。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/04733904.html
+
+原标题：golang 系统设计测试环境预发环境生产环境隔离
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/52583028.html
+
+原标题：Troubleshoot：跨库关联查询，性能急剧恶化
+简介：golang gin 路由动态注册实现方案，根据配置动态注册接口路由，无需硬编码路由，适配动态业务模块。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95693562.html
+
+原标题：Debug：静态资源缓存策略错误，用户看不到更新
+简介：日志输出规范防止磁盘爆满，控制日志输出量，配置日志切割轮转，避免日志文件无限增长占满磁盘。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/14834030.html
+
+原标题：前端骨架屏提升页面体验
+简介：golang go 程序 CPU 占用高定位步骤，pprof 定位热点函数，分析 CPU 高占用，优化耗时代码逻辑。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/61574680.html
+
+原标题：数据库死锁成因规避方案
+简介：nodejs redis 缓存业务实战，Node 对接 Redis 实现业务缓存，缓存热点查询结果，减轻数据库压力。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/96845258.html
+
+原标题：golang 系统设计日志级别业务使用原则梳理
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/16168058.html
+
+原标题：golang 系统设计 vscode go 插件调试配置实操
+简介：短信服务封装失败自动重试，封装短信发送组件，处理发送失败自动重试，兼容多短信服务商。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/84894614.html
+
+原标题：golang gorm ORM 数据库操作
+简介：后端大文件分片上传接口开发，开发后端分片上传接口，接收分片，合并分片完成大文件存储。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/29351405.html
+
+原标题：架构复盘：网关层、应用层、数据库层层限流架构
+简介：golang go mod exclude 排除依赖版本，exclude 排除有问题依赖版本，规避有 bug 的第三方包。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/29560251.html
+
+原标题：Redis 热点 key 拆分降低集群压力
+简介：文件读写与异常捕获代码示例，演示文件读取写入操作，增加异常捕获逻辑，规避文件不存在、权限不足导致崩溃。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/85735734.html
+
+原标题：nodejs redis 缓存业务实战
+简介：golang csv 读写批量数据处理，Go 读写 CSV 文件，批量导入导出业务数据，处理 CSV 格式解析。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/63683584.html
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/28359029.html
+
+原标题：SDK 版本兼容线上崩溃修复
+简介：golang goreleaser 自动版本发布打包，goreleaser 自动化打包发布，生成多平台二进制归档文件。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/07167351.html
+
+原标题：踩坑记录：浮点精度错误造成业务计算错误
+简介：golang benchmark 减少测试干扰，benchmark 执行循环 b.N，避免循环内部做非被测逻辑干扰结果。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95234027.html
+
+原标题：golang csv 读写批量数据处理
+简介：golang dns 自定义解析器实现，自定义 dns 解析，指定 dns 服务器，控制域名解析逻辑，适配内网环境。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39277938.html
+
+原标题：部署复盘：静态资源版本哈希缓存策略
+简介：golang go 无锁并发编程技巧，原子操作 sync/atomic，简单场景替换锁，提升并发性能。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/16927959.html
+
+原标题：express 请求参数校验处理
+简介：golang go 程序敏感信息禁止打印日志，密钥密码禁止输出日志，防止敏感信息日志泄露。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17068671.html
+
+原标题：Hands‑on：搭建OAuth2简易授权服务Demo
+简介：golang e2e 端到端测试 go 接口，编写 e2e 测试，完整模拟用户请求，校验整套业务链路正确性。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/84780808.html
+
+原标题：Architecture：日志、监控、告警整套可观测架构
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/73613579.html
+
+原标题：golang k8s ingress‑nginx 配置 ssl 证书
+简介：golang gorm 原生 SQL 执行处理，复杂场景执行原生 SQL，处理返回结果集，兼顾性能与灵活性。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/73626469.html
+
+三、实战开发｜Practice
+原标题：golang 系统设计短信发送限流降级
+简介：golang go 项目依赖冲突解决完整思路，定位冲突包，replace、exclude、升级降级解决版本冲突。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/16141240.html
+
+原标题：安全复盘：业务数据脱敏防止泄露实践
+简介：golang url 解析路径参数提取，url.Parse 解析 url，获取协议主机路径查询参数。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/69278692.html
+
+原标题：开发复盘：实现定时任务调度服务支持动态任务
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/68389681.html
+
+原标题：Troubleshoot：MySQL字符集utf8非utf8mb4emoji报错
+简介：消息队列消费堆积扩容处理，消息大量堆积时，扩容消费实例，优化消费逻辑，加快消息处理速度。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/28272471.html
+
+原标题：入门实践：实现简单文件读写功能
+简介：golang 静态编译缩小镜像体积，Go 程序静态编译，不依赖系统库，产出单二进制文件，缩小镜像。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17027027.html
+
+原标题：golang 系统设计监控告警体系搭建思路
+简介：golang cobra 命令行参数配置绑定，cobra 绑定配置文件环境变量命令行参数，多源配置合并。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/51469192.html
+
+原标题：内网测试服务搭建团队调试
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39893464.html
+
+原标题：调优方案：消息队列消费速度优化处理堆积
+简介：golang trace 链路追踪 opentelemetry，opentelemetry 实现链路追踪，生成 traceId spanId，完整记录调用链路。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39270581.html
+
+原标题：安全笔记：第三方SDK安全风险评估要点
+简介：网关集成鉴权限流日志一体化，在网关层整合鉴权、限流、请求日志，统一对入口请求做管控处理。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17169469.html
+
+原标题：golang docker 容器资源限制设置
+简介：前端国际化多语言方案落地，搭建前端多语言国际化方案，切换语言，页面文本自动切换对应语种。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/62015818.html
+
+原标题：部署复盘：静态资源版本哈希缓存策略
+简介：golang make new 关键字使用区别，分清 new 与 make 适用类型，正确初始化切片 map 通道，杜绝 nil 引发 panic。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/62025793.html
+
+原标题：部署实践：HTTPS证书自动续期配置实践
+简介：Git commit 钩子提交规范校验，配置 Git 提交钩子，提交代码自动校验提交信息格式，规范提交记录。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/63040349.html
+
+原标题：Practice：实现跨机器文件同步脚本实践
+简介：golang redis 事务 multi exec 使用，Redis 事务 multi exec 实现批量命令原子执行，理解 redis 事务隔离特性。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/74723575.html
+
+原标题：golang 系统设计读写分离架构示例
+简介：本地数据库开发环境搭建指南，讲解数据库安装配置、账号权限设置、连接测试，快速搭建用于开发调试的数据库实例。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/30455247.html
+
+原标题：golang 系统设计线上问题复现思路简单讲解
+简介：golang 信号量控制并发数量，使用信号量控制并发，限制同时执行任务数量，保护下游资源。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/57460171.html
+
+原标题：golang 系统设计数据库表设计通用规范模板
+简介：前端错误监控上报系统搭建，搭建前端错误监控，捕获页面 JS 错误，上报后端，快速发现线上页面 bug。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17016837.html
+
+原标题：开发复盘：搭建文件上传服务支持分片断点续传
+简介：golang go 网络编程 net 包基础，net 包 tcp udp socket 编程，监听接收连接，读写数据。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/63490671.html
+
+原标题：Hands‑on：简易ID生成雪花算法完整实现
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95939806.html
+
+原标题：内网测试服务搭建团队调试
+简介：golang testify mock 模拟接口，mock 接口生成 mock 对象，单元测试模拟外部依赖行为。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17046257.html
+
+原标题：golang md5 sha 加密工具实现
+简介：Nginx 静态代理负载均衡全套配置，一套 Nginx 配置示例，覆盖静态资源、反向代理、负载均衡场景。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/61792681.html
+
+原标题：实践：Git大仓库历史清理减小仓库体积实践
+简介：golang makefile 多平台编译脚本，makefile 一键交叉编译多平台二进制，打包镜像，执行测试。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/94782576.html
+
+原标题：golang 系统设计线程协程泄露定位方法
+简介：分布式 ID 生成器高并发实现，实现高性能分布式 ID 生成器，适配高并发业务，生成全局唯一 ID。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/06446259.html
+
+原标题：开发复盘：大数据量分页避免offset性能问题
+简介：业务幂等键设计防重复逻辑，讲解幂等键设计思路，选择合适业务字段作为幂等标识，实现可靠防重复。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/72598591.html
+
+原标题：golang redis pipeline 批量操作
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40370490.html
+
+原标题：golang es 分页深分页性能优化
+简介：golang regexp 正则捕获分组提取数据，正则捕获分组提取子匹配内容，拿到需要业务字段。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/46935149.html
+
+原标题：Troubleshoot：RPC序列化对象字段增减兼容踩坑
+简介：业务错误码完整落地实践，落地完整业务错误码，枚举全部业务异常，统一返回，配套文档说明。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/49123903.html
+
+原标题：架构复盘：限流系统架构防止恶意流量冲击
+简介：golang benchmark 减少测试干扰，benchmark 执行循环 b.N，避免循环内部做非被测逻辑干扰结果。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/95967259.html
+
+原标题：Hands‑on：手写简单RPC框架基础通信版本
+简介：端口占用释放资源重启服务，查找占用端口进程，结束占用进程，释放端口，让服务能够正常启动监听。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/30349141.html
+
+原标题：golang es 高亮搜索结果实现方案
+简介：golang md5 sha 加密工具实现，实现 MD5、SHA 哈希工具，做数据摘要，用于签名校验场景。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40337915.html
+
+原标题：排错：GitLFS大文件推送失败完整排障
+简介：golang kitex 字节微服务框架入门，kitex 开发 rpc 微服务，代码生成，服务注册发现完整流程。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/40359147.html
+
+原标题：golang 系统设计技术文档编写最佳实践
+简介：golang GC 频繁 STW 停顿优化，减少小对象分配，调整 GOGC，降低 GC 停顿对接口延迟影响。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/85946247.html
+
+原标题：百万数据 Excel 导出内存优化
+简介：golang sync.RWMutex 读写锁使用场景，读多写少场景读写锁，读共享写互斥，提升并发性能。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/16278046.html
+
+原标题：新手向：看懂项目README的正确阅读姿势
+简介：golang mysql 长连接检测保活设置，配置 mysql 连接保活检测，剔除失效连接，避免拿到断开无效数据库连接。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/52690803.html
+
+原标题：文件编码统一随机乱码修复
+简介：文件句柄耗尽资源泄露处理，定位文件句柄泄露，修复文件忘记关闭问题，解决句柄耗尽服务报错。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/91505037.html
+
+原标题：Practice：实现跨机器文件同步脚本实践
+简介：开发测试生产多环境配置区分，讲解三套环境配置分离思路，配置文件隔离，防止开发配置泄露到生产环境。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/73014036.html
+
+原标题：golang 分布式锁防死锁处理
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/63780683.html
+
+原标题：项目语义化版本号规范管理
+简介：golang 文件句柄耗尽排查处理，统计进程打开文件句柄，找到未关闭文件，修复句柄泄漏问题。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/73387815.html
+
+原标题：Hands‑on：简易配置中心本地原型实现
+简介：golang 分布式追踪全链路日志打印，日志打印 traceId，各个服务日志可串联，排查跨服务调用问题。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/84702736.html
+
+原标题：零基础学习简单正则表达式实战案例
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17139059.html
+
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：进程线程并发基础概念讲解，区分进程与线程，讲解调度逻辑，理解并发执行原理，为高并发业务开发打基础。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/83128303.html
+
+四、架构设计｜Architecture
+原标题：排错：多实例部署session共享失效登录失效
+简介：golang go time 时区数据库内置，go 内置时区数据库，不用系统时区文件，容器时区不依赖系统。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/05951363.html
+
+原标题：本地运行正常线上报错排查
+简介：golang 结构体 json 序列化坑点，梳理 Go 结构体 JSON 序列化高频坑点，字段大小写、零值处理问题。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/28135359.html
+
+原标题：开源源码阅读拆解学习思路
+简介：golang delve 远程调试 go 线上程序，delve 远程调试，线上环境附加进程调试排查线上 bug。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/18169474.html
+
+原标题：golang 系统设计日志系统架构思路
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/39492891.html
+
+原标题：golang 系统设计分布式锁不同场景选型对比
+简介：Dockerfile 编写容器打包实战，讲解 Dockerfile 指令含义，编写镜像构建脚本，将本地项目打包成可分发容器镜像。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/84991814.html
+
+原标题：架构笔记：高并发系统核心设计思路总结
+简介：golang go regexp 正则预编译，regexp.MustCompile 预编译正则，不要循环内部编译正则，节省 CPU。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/49942358.html
+
+原标题：请求工具封装统一异常处理
+简介：golang make new 关键字使用区别，分清 new 与 make 适用类型，正确初始化切片 map 通道，杜绝 nil 引发 panic。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/85924024.html
+
+原标题：golang defer panic 异常处理
+简介：静态博客部署 GitHub Pages 教程，将静态博客项目部署至 GitHub Pages，完成线上访问，快速搭建个人技术博客站点。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/30458057.html
+
+原标题：从零学习简单分页逻辑实现思路
+简介：golang gin 框架接口开发实战，Gin 框架搭建 HTTP 服务，开发增删改查接口，快速完成后端接口开发。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/29568068.html
+
+原标题：golang alertmanager 钉钉告警推送
+简介：golang defer 执行顺序与坑点，defer 后进先出，循环内部 defer 陷阱，资源释放正确写法。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/30492313.html
+
+原标题：项目实践：消息队列消息确认机制业务实践
+简介：golang go list 双向链表使用，container/list 双向链表，频繁增删节点业务场景使用。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/74984947.html
+
+原标题：golang 系统设计 mq 消息丢失完整防护
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/83706905.html
+
+原标题：nodejs redis 缓存业务实战
+简介：CDN 缓存刷新获取最新静态资源，调用 CDN 刷新接口，清除节点旧缓存，用户访问到更新后的静态文件。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/74792802.html
+
+原标题：部署实践：容器优雅停机配置处理信号
+简介：时间同步修复令牌提前过期，服务器时间不同步导致 JWT 令牌提前过期，同步系统时间解决异常。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/50351362.html
+
+原标题：golang 系统设计本地消息表可靠消息最终一致性
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/06024636.html
+
+原标题：golang 系统设计本地消息表可靠消息最终一致性
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/96959589.html
+
+原标题：golang 日志与链路 ID 关联打印
+简介：golang 路径处理 filepath 包规范写法，使用 filepath 处理路径拼接分割，自动适配操作系统路径分隔符。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/83617916.html
+
+原标题：golang zap 日志按日期切割方案
+简介：跨域偶现失败配置修复，解决跨域问题时而复现时而正常，定位配置漏配、请求头异常等隐性问题。
+ | 原文链接：http://www.blog.uvsebm.cn/cxkym/17023928.html
+
+?
