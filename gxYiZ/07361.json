@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang 系统设计接口参数防篡改校验
+简介：golang time.After 内存泄漏场景，for 循环使用 time.After 会创建大量 timer，造成内存泄漏。
+ | 原文链接：http://wap.orelbd.asia/blog/7591628.sHtMl
+
+原标题：不必要字符转义关闭业务异常
+简介：nodejs 进程间通信 IPC 实操，演示 Node.js 主进程子进程 IPC 通信，进程之间传递消息数据。
+ | 原文链接：http://wap.orelbd.asia/blog/2939069.sHtMl
+
+原标题：API 接口调试与异常处理实战
+简介：golang 正则表达式 Go 实操案例，正则匹配提取替换，处理手机号邮箱校验，规避正则回溯 CPU 暴涨。
+ | 原文链接：http://wap.orelbd.asia/blog/0717928.sHtMl
+
+原标题：架构笔记：多数据源架构设计事务处理难点
+简介：golang 路径处理 filepath 包规范写法，使用 filepath 处理路径拼接分割，自动适配操作系统路径分隔符。
+ | 原文链接：http://wap.orelbd.asia/blog/6384525.sHtMl
+
+原标题：性能笔记：布隆过滤器减少无效数据库查询
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：http://wap.orelbd.asia/blog/0425847.sHtMl
+
+原标题：开发记录：日志脱敏防止敏感信息输出实践
+简介：golang go 二进制安全 strip 减小体积，strip 剥离二进制调试符号，缩小程序二进制文件体积。
+ | 原文链接：http://wap.orelbd.asia/blog/4857350.sHtMl
+
+原标题：接口签名验签完整安全方案
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://wap.orelbd.asia/blog/2938352.sHtMl
+
+原标题：OAuth2 第三方登录服务搭建
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://wap.orelbd.asia/blog/3159696.sHtMl
+
+原标题：坑点：依赖包内部携带恶意代码供应链风险
+简介：nodejs 中间件模式原理剖析，拆解 Node 中间件设计模式，理解请求逐层处理流转的底层原理。
+ | 原文链接：http://wap.orelbd.asia/blog/1939082.sHtMl
+
+原标题：优化实践：序列化框架性能对比选型实践
+简介：golang go 单二进制文件静态编译交叉编译，交叉编译不同操作系统架构二进制文件，实现一次编译多平台运行。
+ | 原文链接：http://wap.orelbd.asia/blog/4152526.sHtMl
+
+原标题：新手指南：虚拟机WSL开发环境入门配置
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：http://wap.orelbd.asia/blog/3270404.sHtMl
+
+原标题：新手指南：读懂项目构建脚本作用
+简介：golang aes 对称加密解密示例，AES 对称加密解密实现，业务敏感数据加密存储传输。
+ | 原文链接：http://wap.orelbd.asia/blog/5260697.sHtMl
+
+原标题：golang 系统设计网络 io 模型 epoll 原理讲解
+简介：golang k8s go 服务 yaml 资源编写，k8s 部署 go 应用 deployment service，健康检查资源限制配置。
+ | 原文链接：http://wap.orelbd.asia/blog/2040282.sHtMl
+
+原标题：golang 数据库连接泄露排查
+简介：golang go 程序敏感信息禁止打印日志，密钥密码禁止输出日志，防止敏感信息日志泄露。
+ | 原文链接：http://wap.orelbd.asia/blog/3647360.sHtMl
+
+原标题：Practice：模拟数据库故障验证降级逻辑实践
+简介：golang go 程序运行时动态修改配置，运行时热加载配置结构体，原子更新保证并发读取安全。
+ | 原文链接：http://wap.orelbd.asia/blog/2930181.sHtMl
+
+原标题：golang 系统设计灰度发布流量切分实现
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://wap.orelbd.asia/blog/7492797.sHtMl
+
+原标题：Debug：表单自动转义特殊字符业务逻辑出错
+简介：安全组端口开放网络访问，调整服务器安全组规则，开放业务需要端口，恢复外部网络访问服务。
+ | 原文链接：http://wap.orelbd.asia/blog/4152404.sHtMl
+
+原标题：实战项目：CLI批量文件处理工具开发全过程
+简介：限流规则误拦截正常请求修复，修正限流规则阈值，避免合法用户被限流拦截，兼顾防护与可用性。
+ | 原文链接：http://wap.orelbd.asia/blog/9616149.sHtMl
+
+原标题：golang 系统设计告警风暴抑制合并降噪方案
+简介：golang go 变量逃逸场景汇总，切片、指针、返回局部变量引发逃逸，变量分配到堆影响 GC。
+ | 原文链接：http://wap.orelbd.asia/blog/6303707.sHtMl
+
+原标题：设计思考：分布式会话架构选型对比
+简介：golang rate‑limiter 限流组件，封装通用 Go 限流组件，支持多算法，业务接口直接复用调用。
+ | 原文链接：http://wap.orelbd.asia/blog/6192704.sHtMl
+
+原标题：Troubleshooting：代理环境下证书校验失败HTTPS报错
+简介：git cherry‑pick 规范操作防 bug，规范 cherry‑pick 使用流程，处理冲突，避免错误引入不兼容代码。
+ | 原文链接：http://wap.orelbd.asia/blog/6503818.sHtMl
+
+原标题：golang 系统设计单元测试表驱动测试 table‑driven
+简介：golang go 优雅处理信号丢失场景，处理信号丢失、信号被忽略，保障程序可以正常接收终止信号。
+ | 原文链接：http://wap.orelbd.asia/blog/7475748.sHtMl
+
+原标题：记一次第三方SDK版本兼容引发线上故障
+简介：golang go 泛型使用避坑注意点，泛型与 interface 区别，泛型性能，什么时候适合使用泛型。
+ | 原文链接：http://wap.orelbd.asia/blog/3051404.sHtMl
+
+原标题：Security：文件上传漏洞攻击面完整防护方案
+简介：golang go 模板执行错误捕获，捕获模板执行错误，防止模板错误直接返回空白页面。
+ | 原文链接：http://wap.orelbd.asia/blog/4747252.sHtMl
+
+原标题：golang redis stream 消息队列实践
+简介：golang go 并发模式 or‑channel 信号合并，合并多个 done 信号，任意一个完成触发退出逻辑。
+ | 原文链接：http://wap.orelbd.asia/blog/1829063.sHtMl
+
+原标题：记一次字符集编码不一致乱码问题全排查
+简介：TCP 长连接参数优化 TIME_WAIT，调整 TCP 内核参数，优化长连接，减少大量 TIME_WAIT 连接占用资源。
+ | 原文链接：http://wap.orelbd.asia/blog/0717248.sHtMl
+
+原标题：性能笔记：锁优化减少竞争提升并发吞吐
+简介：golang 协程泄露问题排查方法，识别 Go 协程泄露现象，分析泄露场景，给出排查定位协程泄露手段。
+ | 原文链接：http://wap.orelbd.asia/blog/0728049.sHtMl
+
+原标题：golang prometheus metrics 埋点开发
+简介：golang go 值传递引用传递理解，go 全部为值传递，指针本质拷贝指针值，理清参数传递行为。
+ | 原文链接：http://wap.orelbd.asia/blog/9203804.sHtMl
+
+原标题：设计思考：业务系统中什么时候不要用微服务
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：http://wap.orelbd.asia/blog/4758350.sHtMl
+
+原标题：TLS 版本兼容 HTTPS 握手失败
+简介：大事务拆分防止连接池耗尽，将执行时间很长的大事务拆分为小事务，减少事务占用连接时长。
+ | 原文链接：http://wap.orelbd.asia/blog/9381360.sHtMl
+
+原标题：坑点：gitsubmodule子模块更新失败踩坑
+简介：Nginx 缓冲区调优大文件上传，调大 Nginx 请求缓冲区，支持客户端上传大体积文件，避免上传被截断。
+ | 原文链接：http://wap.orelbd.asia/blog/5259038.sHtMl
+
+原标题：Fork 开源项目同步上游代码
+简介：golang redis pipeline 批量操作，使用 Redis Pipeline 批量执行多条命令，减少网络往返，提升批量操作性能。
+ | 原文链接：http://wap.orelbd.asia/blog/8260256.sHtMl
+
+原标题：Troubleshooting：Nginx缓冲区过小大文件上传失败
+简介：WSL 文件权限访问异常修复，处理 WSL 环境文件权限错乱，调整权限配置，实现文件正常读写访问。
+ | 原文链接：http://wap.orelbd.asia/blog/0480479.sHtMl
+
+原标题：消息消费重试次数限制防爆炸
+简介：后端登录鉴权模块完整开发，实现完整登录模块，包含账号校验、令牌发放、接口鉴权整套能力。
+ | 原文链接：http://wap.orelbd.asia/blog/1503582.sHtMl
+
+原标题：golang 系统设计链路数据存储选型对比讲解
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：http://wap.orelbd.asia/blog/1724691.sHtMl
+
+原标题：避坑：Nginx配置错误导致请求丢失Header
+简介：golang 命令行参数解析开发，解析命令行入参，开发自定义 CLI 程序，读取启动参数配置服务。
+ | 原文链接：http://wap.orelbd.asia/blog/6056113.sHtMl
+
+原标题：开发记录：容器日志标准输出采集实践方案
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://wap.orelbd.asia/blog/0492478.sHtMl
+
+原标题：CI 流水线超时时间延长配置
+简介：线程调度优化减少上下文切换，优化线程数量，减少线程频繁切换，降低 CPU 上下文切换开销。
+ | 原文链接：http://wap.orelbd.asia/blog/2926004.sHtMl
+
+原标题：实践：代码提交前自动格式化校验配置实践
+简介：golang select 随机分支执行特性，多个 channel 就绪 select 随机选择，理解 select 行为特性。
+ | 原文链接：http://wap.orelbd.asia/blog/4823582.sHtMl
+
+原标题：golang 系统设计故障复盘模板 postmortem 参考
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：http://wap.orelbd.asia/blog/7177145.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang 系统设计接口向前兼容改造实操
+简介：golang redis list 队列简易消息队列，利用 Redis List 实现简易队列，完成任务入队消费基础能力。
+ | 原文链接：http://wap.orelbd.asia/blog/5051368.sHtMl
+
+原标题：容器软链接文件权限修复
+简介：golang 字符编码转换 go 处理，iconv‑go 做编码转换 gbk utf8 互转，处理老旧系统 gbk 编码数据。
+ | 原文链接：http://wap.orelbd.asia/blog/6279146.sHtMl
+
+原标题：安全复盘：环境变量密钥泄露风险与防护
+简介：golang 数据库连接耗尽排查思路，监控连接池状态，定位连接未归还，解决连接耗尽报错。
+ | 原文链接：http://wap.orelbd.asia/blog/8248937.sHtMl
+
+原标题：golang 表单文件大小限制配置
+简介：消息队列重复消费业务处理，实现消息消费幂等，处理重复投递消息，保证多次消费业务结果一致。
+ | 原文链接：http://wap.orelbd.asia/blog/7371361.sHtMl
+
+原标题：新手指南：看懂开源项目的Issue与PR
+简介：Git 混乱提交历史清理方法，针对杂乱的提交记录，使用 Git 工具整理，清理无效提交，还原整洁版本历史。
+ | 原文链接：http://wap.orelbd.asia/blog/3825814.sHtMl
+
+原标题：坑点：软链接权限问题容器读取文件失败
+简介：golang 静态文件服务搭建教程，Go 搭建静态文件服务，托管静态资源，实现文件直接对外访问。
+ | 原文链接：http://wap.orelbd.asia/blog/1892463.sHtMl
+
+原标题：golang 系统设计缓存 key 淘汰雪崩防护思路
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://wap.orelbd.asia/blog/2914693.sHtMl
+
+原标题：轻量 API 后端接口服务快速开发
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：http://wap.orelbd.asia/blog/7260148.sHtMl
+
+原标题：架构复盘：消息队列在业务系统中边界与最佳实践
+简介：CI 流水线超时时间延长配置，调大 CI 任务超时阈值，解决构建任务耗时较长被流水线强制终止。
+ | 原文链接：http://wap.orelbd.asia/blog/4825693.sHtMl
+
+原标题：HelloWorld：快速上手新项目最小可运行示例
+简介：golang redis zset 实现延时任务队列，zset 存储任务到期时间，轮询到期任务执行，简易延迟队列。
+ | 原文链接：http://wap.orelbd.asia/blog/5269145.sHtMl
+
+原标题：新手向：npm/pip/maven依赖版本冲突入门排查
+简介：消息消费重试次数限制防爆炸，限制消息最大重试次数，防止失败消息无限重试造成消息爆炸堆积。
+ | 原文链接：http://wap.orelbd.asia/blog/9673582.sHtMl
+
+原标题：新手教程：本地项目初始化gitignore配置
+简介：golang go1.18 + 泛型基础实操，go 泛型基础语法，泛型函数泛型类型，实现通用工具函数。
+ | 原文链接：http://wap.orelbd.asia/blog/9616059.sHtMl
+
+原标题：Fork 开源项目同步上游代码
+简介：golang sql 注入风险规避要点，参数化查询杜绝 sql 注入，禁止字符串拼接 SQL 语句执行。
+ | 原文链接：http://wap.orelbd.asia/blog/7484735.sHtMl
+
+原标题：WebSocket 聊天室实时通讯开发
+简介：golang sort 搜索查找切片元素，sort.Search 二分查找有序切片，快速定位元素索引位置。
+ | 原文链接：http://wap.orelbd.asia/blog/1827069.sHtMl
+
+原标题：golang 系统设计消息队列降级业务开关实现
+简介：golang 信号触发配置重载实践，收到 SIGUSR1 信号重新加载配置，线上无需重启刷新配置。
+ | 原文链接：http://wap.orelbd.asia/blog/1879473.sHtMl
+
+原标题：Troubleshoot：跨库关联查询，性能急剧恶化
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：http://wap.orelbd.asia/blog/0413257.sHtMl
+
+原标题：golang 系统设计布隆过滤器拦截不存在 key
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：http://wap.orelbd.asia/blog/3049151.sHtMl
+
+原标题：Nginx 缓冲区调优大文件上传
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://wap.orelbd.asia/blog/4151363.sHtMl
+
+原标题：API 接口调试与异常处理实战
+简介：golang html 模板防 xss 自动转义，理解 go html/template 自动转义，防止 XSS 攻击，处理不需要转义场景。
+ | 原文链接：http://wap.orelbd.asia/blog/7502815.sHtMl
+
+原标题：golang gin 路由分组权限管控
+简介：nodejs 项目 pm2 部署运维指南，使用 PM2 管理 Node 服务，进程守护、日志、重启，线上部署运维实操。
+ | 原文链接：http://wap.orelbd.asia/blog/3056958.sHtMl
+
+原标题：安全实践：备份文件访问权限安全管控
+简介：golang go 服务蓝绿发布实践思路，蓝绿两套实例，流量一键切换，回滚快速降低发布风险。
+ | 原文链接：http://wap.orelbd.asia/blog/0049291.sHtMl
+
+原标题：Hands‑on：实现服务健康检查与自动报警demo
+简介：数据库分表存储大表优化方案，对超大数据表做分表，拆分数据，降低单表数据量提升查询性能。
+ | 原文链接：http://wap.orelbd.asia/blog/5380607.sHtMl
+
+原标题：业务幂等键设计防重复逻辑
+简介：golang go 泛型约束与类型集合，泛型 type set 约束，限制泛型支持类型，写出安全泛型代码。
+ | 原文链接：http://wap.orelbd.asia/blog/2939250.sHtMl
+
+原标题：DevOps：私有镜像仓库搭建与权限管控
+简介：golang http client 连接池调优，调优 Go HTTP Client 连接池参数，复用 TCP 连接，减少连接创建开销。
+ | 原文链接：http://wap.orelbd.asia/blog/9425147.sHtMl
+
+原标题：新手指南：读懂项目构建脚本作用
+简介：golang testify testify 断言库使用，testify assert require 断言，简化单元测试断言代码。
+ | 原文链接：http://wap.orelbd.asia/blog/4949273.sHtMl
+
+原标题：部署复盘：容器资源限制CPU内存配置实践
+简介：golang gin 中间件执行顺序讲解，理解 Gin 中间件注册顺序，区分前置后置逻辑，规避中间件顺序 bug。
+ | 原文链接：http://wap.orelbd.asia/blog/5262525.sHtMl
+
+原标题：缓存过期打散防止缓存雪崩
+简介：golang go select 多路等待 channel，select 等待多个 channel，default 非阻塞，超时等待 channel。
+ | 原文链接：http://wap.orelbd.asia/blog/0717079.sHtMl
+
+原标题：golang 系统设计缓存 key 命名规范最佳实践
+简介：文件句柄耗尽资源泄露处理，定位文件句柄泄露，修复文件忘记关闭问题，解决句柄耗尽服务报错。
+ | 原文链接：http://wap.orelbd.asia/blog/9605957.sHtMl
+
+原标题：golang docker 部署 mysql 注意事项
+简介：golang validator 自定义校验规则，Gin Validator 自定义校验器，实现业务特殊参数校验逻辑。
+ | 原文链接：http://wap.orelbd.asia/blog/9627069.sHtMl
+
+原标题：ORM 框架数据库增删改查实操
+简介：分布式 ID 全局唯一生成方案，讲解分布式 ID 生成思路，实现全局唯一 ID，满足分布式系统主键生成需求。
+ | 原文链接：http://wap.orelbd.asia/blog/6383738.sHtMl
+
+原标题：实战项目：编写Dockerfile多阶段构建减小镜像体积
+简介：golang 服务限流熔断降级监控完整实践，微服务防护体系，限流熔断降级指标监控告警整套落地。
+ | 原文链接：http://wap.orelbd.asia/blog/7291704.sHtMl
+
+原标题：golang 系统设计接口幂等架构设计
+简介：golang tcp 四次挥手 go 程序行为，理解 tcp 四次挥手，处理连接关闭、重置、RST 包异常场景。
+ | 原文链接：http://wap.orelbd.asia/blog/5260403.sHtMl
+
+原标题：分布式任务调度集群原型开发
+简介：golang 分布式锁防死锁实现要点，锁超时、续期、锁持有者校验，避免锁死锁，保障分布式锁可靠性。
+ | 原文链接：http://wap.orelbd.asia/blog/6372706.sHtMl
+
+原标题：golang 系统设计配置敏感信息加密存储方案
+简介：golang go 泛型实现通用数据结构，泛型实现通用栈队列，复用逻辑支持多种数据类型。
+ | 原文链接：http://wap.orelbd.asia/blog/4169589.sHtMl
+
+原标题：热更新开发环境配置教程
+简介：动态定时任务业务调度实现，实现可以动态增删启停定时任务，无需重启服务调整调度任务。
+ | 原文链接：http://wap.orelbd.asia/blog/0424037.sHtMl
+
+原标题：Performance：长连接管理优化减少连接重建开销
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://wap.orelbd.asia/blog/4150303.sHtMl
+
+原标题：性能复盘：数据库回滚日志过大性能影响优化
+简介：开源项目本地运行排错完整清单，汇总开源项目拉取后运行失败各类问题，给出排查思路，快速解决本地启动异常。
+ | 原文链接：http://wap.orelbd.asia/blog/7484725.sHtMl
+
+原标题：golang 系统设计状态字段枚举约束设计思路
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：http://wap.orelbd.asia/blog/4372584.sHtMl
+
+原标题：性能复盘：系统上下文切换过高性能下降调优
+简介：golang go 测试 t.Run 子测试分组，t.Run 实现子测试，分组执行用例，输出分组测试结果。
+ | 原文链接：http://wap.orelbd.asia/blog/3049314.sHtMl
+
+原标题：golang 分页查询封装通用工具
+简介：golang go 程序敏感信息禁止打印日志，密钥密码禁止输出日志，防止敏感信息日志泄露。
+ | 原文链接：http://wap.orelbd.asia/blog/6372514.sHtMl
+
+三、实战开发｜Practice
+原标题：记一次本地运行正常，线上环境报错诡异问题
+简介：echarts 大数据渲染性能调优，大数据量 ECharts 图表调优，数据采样、分片渲染，解决图表卡顿。
+ | 原文链接：http://wap.orelbd.asia/blog/8502918.sHtMl
+
+原标题：golang 系统设计压测指标确定与分析
+简介：golang 协程 panic 捕获防止崩溃，协程内部捕获 panic，防止单个协程恐慌造成整个 Go 进程崩溃。
+ | 原文链接：http://wap.orelbd.asia/blog/4857481.sHtMl
+
+原标题：入门实践：简易导出导入文件功能实现
+简介：golang csv 百万级数据导入数据库，流式读取 csv 分批写入数据库，避免一次性加载全部数据。
+ | 原文链接：http://wap.orelbd.asia/blog/3161414.sHtMl
+
+原标题：零基础理解进程、线程基础概念区别
+简介：golang csv 读写批量数据处理，Go 读写 CSV 文件，批量导入导出业务数据，处理 CSV 格式解析。
+ | 原文链接：http://wap.orelbd.asia/blog/6485858.sHtMl
+
+原标题：效率笔记：提升开发效率shell脚本小工具合集
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://wap.orelbd.asia/blog/2930473.sHtMl
+
+原标题：内网 DNS 不稳定随机报错排查
+简介：全量回归测试提升代码质量，搭建全量回归测试集，版本发布执行回归测试，避免迭代引入旧 bug。
+ | 原文链接：http://wap.orelbd.asia/blog/8505759.sHtMl
+
+原标题：Debug：Websocket频繁断开重连根因分析
+简介：golang redis hyperloglog 基数统计，hyperloglog 统计 UV 基数，海量数据去重统计，极低内存开销。
+ | 原文链接：http://wap.orelbd.asia/blog/3649581.sHtMl
+
+原标题：golang 系统设计灰度发布实现思路
+简介：消息队列生产消费模型入门，讲解消息队列生产、存储、消费流程，理解异步解耦、削峰，掌握消息队列基础概念。
+ | 原文链接：http://wap.orelbd.asia/blog/2668479.sHtMl
+
+原标题：优化实践：分页查询性能优化解决offset问题
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://wap.orelbd.asia/blog/7485814.sHtMl
+
+原标题：架构复盘：数据库索引架构设计原则与边界
+简介：golang go 值传递引用传递理解，go 全部为值传递，指针本质拷贝指针值，理清参数传递行为。
+ | 原文链接：http://wap.orelbd.asia/blog/2937484.sHtMl
+
+原标题：Hands‑on：简易事件驱动架构原型开发
+简介：golang go race 竞态检测工具，‑race 检测数据竞争，编译运行检测并发读写数据竞争 bug。
+ | 原文链接：http://wap.orelbd.asia/blog/2968180.sHtMl
+
+原标题：Security：开源项目安全审计简易检查清单
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://wap.orelbd.asia/blog/6373625.sHtMl
+
+原标题：异步编程 Promise 执行流程解析
+简介：golang trace 可视化分析协程阻塞，使用 trace 网页 UI，定位协程阻塞、系统调用阻塞、锁等待。
+ | 原文链接：http://wap.orelbd.asia/blog/7180695.sHtMl
+
+原标题：golang redis 地理位置 geo 使用
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：http://wap.orelbd.asia/blog/4161391.sHtMl
+
+原标题：零基础理解幂等性基础概念与场景
+简介：手写简易 ORM 理解对象映射，手写极简 ORM 示例，理解对象与数据库表字段映射底层原理。
+ | 原文链接：http://wap.orelbd.asia/blog/7483624.sHtMl
+
+原标题：golang http 代理客户端配置
+简介：golang defer panic 异常处理，理解 defer 延迟执行，panic 恐慌捕获，实现函数资源释放异常保护。
+ | 原文链接：http://wap.orelbd.asia/blog/8505847.sHtMl
+
+原标题：安全复盘：业务登录暴力破解防护完整方案
+简介：集成测试业务流程编写示例，编写业务流程集成测试，覆盖完整业务链路，验证模块之间协同工作是否正常。
+ | 原文链接：http://wap.orelbd.asia/blog/7494817.sHtMl
+
+原标题：Hands‑on：简易代理服务器开发实践
+简介：代理 HTTPS 证书访问异常处理，配置代理根证书，解决代理环境 HTTPS 证书校验失败无法访问外网。
+ | 原文链接：http://wap.orelbd.asia/blog/7413028.sHtMl
+
+原标题：性能复盘：锁粒度太大，拆分细粒度锁优化
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://wap.orelbd.asia/blog/1838180.sHtMl
+
+原标题：golang 系统设计 json 解析性能优化实操
+简介：nodejs 消息队列消费服务开发，Node 开发消息队列消费端，监听队列消息执行业务逻辑，异步解耦业务。
+ | 原文链接：http://wap.orelbd.asia/blog/0717079.sHtMl
+
+原标题：接口签名校验防篡改实现
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：http://wap.orelbd.asia/blog/7597139.sHtMl
+
+原标题：零基础理解模块化与组件化基础思想
+简介：端口占用释放资源重启服务，查找占用端口进程，结束占用进程，释放端口，让服务能够正常启动监听。
+ | 原文链接：http://wap.orelbd.asia/blog/0717038.sHtMl
+
+原标题：nodejs 日志轮转生产环境配置
+简介：golang 环境变量读取与类型转换，读取系统环境变量，做类型转换默认值处理，适配多环境部署。
+ | 原文链接：http://wap.orelbd.asia/blog/6383524.sHtMl
+
+原标题：golang 系统设计 rest 资源命名规范汇总
+简介：Redis 大 key 拆分集群卡顿解决，拆分 Redis 超大 Key，避免大 key 操作造成 Redis 集群卡顿阻塞。
+ | 原文链接：http://wap.orelbd.asia/blog/0424920.sHtMl
+
+原标题：实践：分布式事务本地模拟验证实践
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://wap.orelbd.asia/blog/2949202.sHtMl
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：服务健康检查告警监控体系，搭建健康检查加告警体系，服务异常及时推送告警通知运维人员。
+ | 原文链接：http://wap.orelbd.asia/blog/4868795.sHtMl
+
+原标题：golang k8s 资源请求限制配置
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：http://wap.orelbd.asia/blog/4152615.sHtMl
+
+原标题：开发记录：日志脱敏防止敏感信息输出实践
+简介：golang channel 关闭规则与坑点，关闭已经关闭 channel 会 panic，判断 channel 是否关闭正确写法。
+ | 原文链接：http://wap.orelbd.asia/blog/7413037.sHtMl
+
+原标题：安全实践：输入输出双向过滤安全最佳实践
+简介：数据库分表存储大表优化方案，对超大数据表做分表，拆分数据，降低单表数据量提升查询性能。
+ | 原文链接：http://wap.orelbd.asia/blog/6380695.sHtMl
+
+原标题：nodejs 定时任务生产环境避坑
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：http://wap.orelbd.asia/blog/8202525.sHtMl
+
+原标题：golang 系统设计代码评审高效沟通原则思路
+简介：Redis 分布式锁高并发安全实现，基于 Redis 实现分布式锁，处理锁过期、续期，保障集群并发安全。
+ | 原文链接：http://wap.orelbd.asia/blog/9315858.sHtMl
+
+原标题：实践：接口参数自动校验业务落地实践
+简介：golang rsa 非对称加密签名验签，RSA 非对称加密与签名验签，实现非对称安全通信。
+ | 原文链接：http://wap.orelbd.asia/blog/9594048.sHtMl
+
+原标题：golang 系统设计第三方调用超时重试熔断
+简介：golang 简单爬虫请求防封禁，简易 Go 爬虫实现，增加请求间隔、UA 伪装，规避被目标站点封禁 IP。
+ | 原文链接：http://wap.orelbd.asia/blog/8635039.sHtMl
+
+原标题：Practice：实现文件监控自动重启开发服务工具
+简介：批量数据处理脚本编写技巧，编写脚本批量处理大量业务数据，循环处理、分批执行，提升数据处理效率。
+ | 原文链接：http://wap.orelbd.asia/blog/2947251.sHtMl
+
+原标题：TLS 版本兼容 HTTPS 握手失败
+简介：时间精度统一业务判断修复，统一业务使用时间戳精度，毫秒秒区分清楚，修复时间判断逻辑错误。
+ | 原文链接：http://wap.orelbd.asia/blog/1059151.sHtMl
+
+原标题：端口占用释放资源重启服务
+简介：分布式事务最终一致性实现，基于可靠消息实现最终一致性，解决跨数据库跨服务业务数据一致性。
+ | 原文链接：http://wap.orelbd.asia/blog/3646251.sHtMl
+
+原标题：golang 系统设计开源项目协作流程梳理
+简介：golang 云存储 s3 协议对象存储，go s3 客户端，兼容 minio 阿里云 oss，实现文件上传下载签名访问。
+ | 原文链接：http://wap.orelbd.asia/blog/6383047.sHtMl
+
+原标题：安全实践：防止JSON解析漏洞恶意payload
+简介：golang redis hash 结构业务实战，使用 Redis Hash 存储对象数据，适合对象字段频繁更新业务场景。
+ | 原文链接：http://wap.orelbd.asia/blog/8714039.sHtMl
+
+原标题：golang 系统设计开发环境本地调试最佳实践
+简介：golang context.WithValue 传递元数据，WithValue 只传 traceId 鉴权元数据，不要传业务大对象。
+ | 原文链接：http://wap.orelbd.asia/blog/6372414.sHtMl
+
+原标题：golang 系统设计日志系统架构思路
+简介：golang go 初始化顺序包变量 init 函数，包级变量初始化，init 执行顺序，理解包加载执行流程。
+ | 原文链接：http://wap.orelbd.asia/blog/3940283.sHtMl
+
+四、架构设计｜Architecture
+原标题：AI实践：大模型生成代码后审查与重构实践
+简介：golang 文件句柄耗尽排查处理，统计进程打开文件句柄，找到未关闭文件，修复句柄泄漏问题。
+ | 原文链接：http://wap.orelbd.asia/blog/5262584.sHtMl
+
+原标题：性能笔记：TCP参数内核调优服务高并发场景
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://wap.orelbd.asia/blog/7494758.sHtMl
+
+原标题：架构复盘：热点数据防护架构防止节点过载
+简介：golang systemd 信号与优雅退出配合，systemd 停止服务发送 SIGTERM，go 程序捕获信号优雅关闭。
+ | 原文链接：http://wap.orelbd.asia/blog/1424039.sHtMl
+
+原标题：golang 系统设计监控缺失指标补全完整流程
+简介：跨平台换行符统一异常修复，统一代码文件换行符，解决不同操作系统换行符不一致带来脚本执行异常。
+ | 原文链接：http://wap.orelbd.asia/blog/7592819.sHtMl
+
+原标题：记一次第三方SDK版本兼容引发线上故障
+简介：golang 程序崩溃 core dump 生成调试，开启 core dump，程序崩溃生成转储文件，事后分析崩溃原因。
+ | 原文链接：http://wap.orelbd.asia/blog/9828141.sHtMl
+
+原标题：nodejs 事件循环机制完整讲解
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：http://wap.orelbd.asia/blog/9303920.sHtMl
+
+原标题：新手教程：配置SSH‑Key免密访问GitHub
+简介：程序预加载加快服务启动速度，把高频使用资源提前预加载，减少请求阶段初始化，加快服务启动。
+ | 原文链接：http://wap.orelbd.asia/blog/7595825.sHtMl
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：Shell 运维脚本服务器效率提升，编写常用运维 Shell 脚本，自动化服务器运维操作，减少手工重复工作。
+ | 原文链接：http://wap.orelbd.asia/blog/2635170.sHtMl
+
+原标题：golang rsa 非对称加密签名验签
+简介：golang 消息队列 kafka 消费开发，Go 开发 Kafka 消费程序，消费消息执行业务，理解 Kafka 消费逻辑。
+ | 原文链接：http://wap.orelbd.asia/blog/2939282.sHtMl
+
+原标题：方案对比：几种分布式限流算法架构适用性
+简介：JSON XML 数据解析处理示例，演示两种格式数据解析与序列化，增加异常捕获，处理格式错乱导致解析失败。
+ | 原文链接：http://wap.orelbd.asia/blog/1950303.sHtMl
+
+原标题：项目实践：实现数据脱敏组件支持多种脱敏规则
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：http://wap.orelbd.asia/blog/2535162.sHtMl
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：golang rsa 公钥加密私钥解密，rsa 非对称加密，大文件分块加密，处理非对称加密长度限制。
+ | 原文链接：http://wap.orelbd.asia/blog/0728079.sHtMl
+
+原标题：golang 系统设计网络 io 模型 epoll 原理讲解
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：http://wap.orelbd.asia/blog/2939280.sHtMl
+
+原标题：架构复盘：供应链安全架构依赖包风险治理
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：http://wap.orelbd.asia/blog/4140282.sHtMl
+
+原标题：开发记录：文件锁实现多进程互斥实践
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://wap.orelbd.asia/blog/3757370.sHtMl
+
+原标题：开发复盘：分布式会话共享多种方案实践
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：http://wap.orelbd.asia/blog/7506929.sHtMl
+
+原标题：CLI 批量处理工具文件操作开发
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://wap.orelbd.asia/blog/6383627.sHtMl
+
+原标题：文件监控服务自动重启开发
+简介：vite 插件开发自定义构建逻辑，开发自定义 vite 插件，介入构建生命周期，实现项目个性化构建逻辑。
+ | 原文链接：http://wap.orelbd.asia/blog/8203036.sHtMl
+
+?
